@@ -14,7 +14,7 @@ description: 如果你也像我一样经常工作于Windows和Linux，那么这�
 - Linux下虚拟Windows（一般是xp）
 - Windows下虚拟Linux
 
-除了以上几个，还有一些其他方法，都没啥映像，在此不讨论。
+除了以上几个，还有一些其他方法，都没啥印象，在此不讨论。
 
 选择两个系统无非是因为工作原因，Linux下开发，Windows下娱乐或者Word等。出现这种矛盾实在是纠结，在尝试过上述三种方案以后，我选择了在Windows下虚拟一个Linux，原因如下：
 
