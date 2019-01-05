@@ -5,9 +5,9 @@ layout: post
 
 ## 关于我
 
-小白一枚。
+小白&学生一枚。
 
-对新事物有强烈的好奇心。
+对新事物有强烈的好奇心，希望自己能够不断学习，不断成长。
 
 ## 对博客的理解
 
@@ -20,6 +20,7 @@ layout: post
 ## 博客平台
 
 至于为什么会选择这种风格？
+
 也许是用Evernote太久了的缘故，喜欢Evernote的简洁UI。之前尝试过新浪博客、CSDN、简书等，最终选择使用可以自由控制的GitHub。
 
 这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
