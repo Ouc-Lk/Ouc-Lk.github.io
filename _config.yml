@@ -31,7 +31,7 @@ favicon: /img/favicon.ico
 # google analytics config
 #ga:
 #  id: UA-54767140-1
-#  url: yansu.org
+#  url: https://ouc-lk.github.io/
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
